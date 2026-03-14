@@ -3,7 +3,7 @@ This is a simple RAG (Retrieval-Augmented Generation) that mostly self-implement
 - **Retrieval**: A retriever that retrieve the most relevant documents from a given corpus.
 - **Rerank**: A reranker that rerank the retrieved documents.
 - **LLM**: A language model that generate the answer.
-- **Data Helper**: A helper that help to load the PDF data.
+- **Data Helper**: A helper that help to load the PDF data.   
 
 
 ## Overview
