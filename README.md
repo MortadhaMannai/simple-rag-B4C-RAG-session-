@@ -34,7 +34,7 @@ conda install -c conda-forge poppler
 
 Then, install the package using the following commands:
 ```bash
-git clone https://github.com/behitek/simple-rag/
+git clone https://github.com/MortadhaMannai/simple-rag-B4C-RAG-session-
 cd simple-rag
 pip install -e .
 ```
